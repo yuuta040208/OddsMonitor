@@ -1,0 +1,101 @@
+{
+    "race_id": "201809030811",
+    "race_data": [
+        {
+            "number": 3,
+            "name": "サトノダイヤモンド",
+            "win": 3.9,
+            "place": 1.9
+        },
+        {
+            "number": 16,
+            "name": "キセキ",
+            "win": 5.7,
+            "place": 2.3
+        },
+        {
+            "number": 10,
+            "name": "ヴィブロス",
+            "win": 6.5,
+            "place": 2.3
+        },
+        {
+            "number": 7,
+            "name": "パフォーマプロミス",
+            "win": 8.5,
+            "place": 2.6
+        },
+        {
+            "number": 8,
+            "name": "ダンビュライト",
+            "win": 10.3,
+            "place": 3.4
+        },
+        {
+            "number": 9,
+            "name": "サトノクラウン",
+            "win": 11.9,
+            "place": 4.4
+        },
+        {
+            "number": 4,
+            "name": "ミッキーロケット",
+            "win": 13.1,
+            "place": 3.7
+        },
+        {
+            "number": 5,
+            "name": "ストロングタイタン",
+            "win": 14.5,
+            "place": 4.7
+        },
+        {
+            "number": 15,
+            "name": "ゼーヴィント",
+            "win": 14.6,
+            "place": 4.4
+        },
+        {
+            "number": 13,
+            "name": "ワーザー",
+            "win": 14.9,
+            "place": 5.2
+        },
+        {
+            "number": 1,
+            "name": "ステファノス",
+            "win": 39.5,
+            "place": 7.7
+        },
+        {
+            "number": 2,
+            "name": "ノーブルマーズ",
+            "win": 40,
+            "place": 7.6
+        },
+        {
+            "number": 14,
+            "name": "スマートレイアー",
+            "win": 55.9,
+            "place": 11.7
+        },
+        {
+            "number": 11,
+            "name": "サイモンラムセス",
+            "win": 69.4,
+            "place": 17.3
+        },
+        {
+            "number": 6,
+            "name": "アルバート",
+            "win": 138.2,
+            "place": 28
+        },
+        {
+            "number": 12,
+            "name": "タツゴウゲキ",
+            "win": 166,
+            "place": 31.5
+        }
+    ]
+}

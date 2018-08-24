@@ -1,0 +1,15 @@
+in:
+    type: mysql
+    host: localhost
+    user: root
+    password: eVitch@0208
+    database: keiba
+    query: |
+        SELECT * FROM odds
+
+out:
+    type: elasticsearch
+    index: test
+    index_type: embulk
+    nodes:
+    - host: localhost
